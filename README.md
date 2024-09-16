@@ -4,7 +4,8 @@ __FILE STRUCTURE:__
    multiple, make sure they all end up in this folder.
 4. __imgs folder__: All of the images you use in this project should live in this folder.
 
-__TODO__
+
+__TODO:__
 1. Follow the directions in the Canvas assignments to fill in your index.html and cyoa-style.css files.
 2. As you add more files, and especially as you add images, take your file structure into consideration,
    and use folders to keep everything organized.
